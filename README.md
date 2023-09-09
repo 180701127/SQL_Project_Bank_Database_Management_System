@@ -1,5 +1,5 @@
 # SQL_Project_Bank_Database_Management_System
-I Was Completed by Group Project:
+I Was Completed my Group Project:
 My Team Members:
 (1) Saravanan-create tables
 (2) Logeshkumar-records in excel(datasets)
